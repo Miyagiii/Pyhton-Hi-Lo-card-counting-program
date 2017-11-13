@@ -4,7 +4,7 @@
 This is a simple Hi-Lo black jack card counting program written in python.
 # Benifits
 It's modular to it can be easily intergrated into other programs, look at the example program for an example program.
-#How to use
+# How to use
 It's quite straight forward.<br/>
 step 1. Import the module ```from CardCounting import cardCounting```<br/>
 step 2. Create an instance ```instance = cardCounting()```<br/>
